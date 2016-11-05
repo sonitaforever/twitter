@@ -1,4 +1,22 @@
+
+.cabecera{
+	background-color: #927DB5;
+	color: #B5B5B5;
+}
+
 textarea {
 	width: 100%;
-	
+	margin-top: 2%;
 }
+
+.agregar{
+	background-color: #927DB5;
+	color:#B5B5B5;
+}
+
+hr{
+	width: 100%;
+	height: 20%;
+	color: #696969;
+}
+
